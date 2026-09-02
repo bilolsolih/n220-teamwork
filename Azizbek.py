@@ -1,0 +1,1 @@
+print("Azizbekdan salom")
